@@ -9,3 +9,4 @@ event_command = /home/pi/Patiobar/eventcmd.sh
 # this one HAS to have spaces....
 fifo = /home/pi/Patiobar/ctl
 
+volume = -24
