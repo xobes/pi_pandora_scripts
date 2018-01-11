@@ -1,0 +1,1 @@
+if you hit volume up too many times things go negative and then pianobar will continually crash

@@ -1,0 +1,8 @@
+startup_message off
+
+# mouse tracking allows to switch region focus by clicking
+mousetrack on
+
+# default windows
+screen -t pianobar  1 ${HOME}/scripts/pandora/run_pianobar.sh
+screen -t Patiobar  2 ${HOME}/scripts/pandora/run_patiobar.sh
