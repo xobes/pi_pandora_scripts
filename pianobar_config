@@ -1,0 +1,11 @@
+tls_fingerprint = FC2E6AF49FC63AEDAD1078DC22D1185B809E7534
+audio_quality = high
+autostart_station = 3776252434898064372
+volume=0
+
+# there can be no spaces! (or does it work?  so confused)
+event_command = /home/pi/Patiobar/eventcmd.sh
+
+# this one HAS to have spaces....
+fifo = /home/pi/Patiobar/ctl
+
